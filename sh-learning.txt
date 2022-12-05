@@ -1,0 +1,20 @@
+
+find 查看文件树
+find dir
+mv a b 移动a to b;
+mv index.html client/src
+mkdir a 新建a文件夹
+mkdir a/b 在a文件夹里新建b文件夹
+help 查看终端各种命令语法
+find --help 查看具体命令语法
+find -name index.html 查看文件名为index.html的文件路径
+rmdir dir-name 删除文件夹空
+rm    a-file   删除文件
+rm -r 级联删除
+rm -f 强制删除
+echo string 在终端输出文本
+echo "text" >> readme.md 输出文本到readme文件
+cp source target 从源目录复制到目标目录
+cp -r s t 级联复制
+clear 清屏
+exit 退出终端窗口
